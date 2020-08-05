@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="shubham399 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
+---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [HackTheBox - Oouch](https://www.shubhkumar.in/htb/oouch/)
@@ -32,11 +34,12 @@ Here are some ideas to get you started:
 - [Hackthebox - Book](https://www.shubhkumar.in/htb/book/)
 - [HackTheBox - Forwardslash](https://www.shubhkumar.in/htb/forwardslash/)
 <!-- BLOG-POST-LIST:END -->
+---
 
 
-
+---
 <img align="left" alt="shubham399 Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubham399&show_icons=true&hide_border=true&count_private=true" />
-
+----
 
 [website]:  https://www.shubhkumar.in
 [twitter]:  https://twitter.com/shubhkumar01/

@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 
 
 
-[website](https://www.shubhkumar.in)
+[website]:  https://www.shubhkumar.in
+[twitter]:  https://twitter.com/shubhkumar01/
+[linkedin]: https://www.linkedin.com/in/shubham399/

@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 
 
+<img align="left" alt="shubham399 Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubham399&show_icons=true&hide_border=true&count_private=true" />
+
+
 [website]:  https://www.shubhkumar.in
 [twitter]:  https://twitter.com/shubhkumar01/
 [linkedin]: https://www.linkedin.com/in/shubham399/

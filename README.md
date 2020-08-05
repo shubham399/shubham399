@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox - Oouch](https://www.shubhkumar.in/htb/oouch/)
+- [HackTheBox - Cascade](https://www.shubhkumar.in/htb/cascade/)
+- [Hackthebox - Sauna](https://www.shubhkumar.in/htb/sauna/)
+- [Hackthebox - Book](https://www.shubhkumar.in/htb/book/)
+- [HackTheBox - Forwardslash](https://www.shubhkumar.in/htb/forwardslash/)
 <!-- BLOG-POST-LIST:END -->
 
 

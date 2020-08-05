@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham Kumar - aka shubham399[website] 👋
+# Hi there, I'm Shubham Kumar - aka [shubham399][website] 👋
 
 <!--
 **shubham399/shubham399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

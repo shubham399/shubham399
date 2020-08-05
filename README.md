@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="shubham399.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shubham399 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shubham399 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shubham399 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 
 <br />
@@ -48,3 +49,4 @@ Here are some ideas to get you started:
 [website]:  https://www.shubhkumar.in
 [twitter]:  https://twitter.com/shubhkumar01/
 [linkedin]: https://www.linkedin.com/in/shubham399/
+[discord]:  https://discordapp.com/users/397613413301354497

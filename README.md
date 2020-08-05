@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 <br />
 
 ---
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [HackTheBox - Oouch](https://www.shubhkumar.in/htb/oouch/)

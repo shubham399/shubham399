@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 ---
 
-
----
 <img align="left" alt="shubham399 Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubham399&show_icons=true&hide_border=true&count_private=true" />
 ----
 

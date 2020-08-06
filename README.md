@@ -47,7 +47,7 @@ JavaScript   16 mins         ██░░░░░░░░░░░░░░░
 <img align="left" alt="shubham399 Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubham399&show_icons=true&hide_border=true&count_private=true" />
 ----
 
-[website]:  https://www.shubhkumar.in
+[website]:  https://shubhkumar.in/about/
 [twitter]:  https://twitter.com/shubhkumar01/
 [linkedin]: https://www.linkedin.com/in/shubham399/
 [discord]:  https://discordapp.com/users/397613413301354497

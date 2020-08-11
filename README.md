@@ -36,11 +36,11 @@ Markdown     25 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Tabby](https://www.shubhkumar.in/htb/tabby/)
 - [HackTheBox - Oouch](https://www.shubhkumar.in/htb/oouch/)
 - [HackTheBox - Cascade](https://www.shubhkumar.in/htb/cascade/)
 - [Hackthebox - Sauna](https://www.shubhkumar.in/htb/sauna/)
 - [Hackthebox - Book](https://www.shubhkumar.in/htb/book/)
-- [HackTheBox - Forwardslash](https://www.shubhkumar.in/htb/forwardslash/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

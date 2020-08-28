@@ -36,11 +36,11 @@ JSON         13 mins         ▓░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - OpenKeys](https://www.shubhkumar.in/htb/openkeys/)
 - [Hackthebox - Worker](https://www.shubhkumar.in/htb/worker/)
 - [HackTheBox - Magic](https://www.shubhkumar.in/htb/magic/)
 - [HackTheBox - Traceback](https://www.shubhkumar.in/htb/traceback/)
 - [Hackthebox - Tabby](https://www.shubhkumar.in/htb/tabby/)
-- [HackTheBox - Oouch](https://www.shubhkumar.in/htb/oouch/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

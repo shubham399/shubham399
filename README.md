@@ -36,11 +36,11 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox - Travel](https://www.shubhkumar.in/htb/travel/)
 - [Hackthebox - Passage](https://www.shubhkumar.in/htb/passage/)
 - [HackTheBox - Remote](https://www.shubhkumar.in/htb/remote/)
 - [HackTheBox - Quick](https://www.shubhkumar.in/htb/quick/)
 - [Hackthebox - OpenKeys](https://www.shubhkumar.in/htb/openkeys/)
-- [Hackthebox - Worker](https://www.shubhkumar.in/htb/worker/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

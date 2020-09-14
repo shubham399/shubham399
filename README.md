@@ -33,11 +33,11 @@ Markdown     38 mins         ███▒░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Compromised](https://www.shubhkumar.in/htb/compromised/)
 - [HackTheBox - Travel](https://www.shubhkumar.in/htb/travel/)
 - [Hackthebox - Passage](https://www.shubhkumar.in/htb/passage/)
 - [HackTheBox - Remote](https://www.shubhkumar.in/htb/remote/)
 - [HackTheBox - Quick](https://www.shubhkumar.in/htb/quick/)
-- [Hackthebox - OpenKeys](https://www.shubhkumar.in/htb/openkeys/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

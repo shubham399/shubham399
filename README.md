@@ -36,11 +36,11 @@ Python       48 mins         █▓░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Blackfield](https://www.shubhkumar.in/htb/blackfield/)
 - [Hackthebox - Doctor](https://www.shubhkumar.in/htb/doctor/)
 - [HackTheBox - Admirer](https://www.shubhkumar.in/htb/admirer/)
 - [Hackthebox - Unbalanced](https://www.shubhkumar.in/htb/unbalanced/)
 - [Hackthebox - Compromised](https://www.shubhkumar.in/htb/compromised/)
-- [HackTheBox - Travel](https://www.shubhkumar.in/htb/travel/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

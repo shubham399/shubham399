@@ -36,11 +36,11 @@ Markdown     21 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox - Cache](https://www.shubhkumar.in/htb/cache/)
 - [Hackthebox - Blackfield](https://www.shubhkumar.in/htb/blackfield/)
 - [Hackthebox - Doctor](https://www.shubhkumar.in/htb/doctor/)
 - [HackTheBox - Admirer](https://www.shubhkumar.in/htb/admirer/)
 - [Hackthebox - Unbalanced](https://www.shubhkumar.in/htb/unbalanced/)
-- [Hackthebox - Compromised](https://www.shubhkumar.in/htb/compromised/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

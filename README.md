@@ -36,11 +36,11 @@ JSON         19 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Jewel](https://www.shubhkumar.in/htb/jewel/)
 - [HackTheBox - Cache](https://www.shubhkumar.in/htb/cache/)
 - [Hackthebox - Blackfield](https://www.shubhkumar.in/htb/blackfield/)
 - [Hackthebox - Doctor](https://www.shubhkumar.in/htb/doctor/)
 - [HackTheBox - Admirer](https://www.shubhkumar.in/htb/admirer/)
-- [Hackthebox - Unbalanced](https://www.shubhkumar.in/htb/unbalanced/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

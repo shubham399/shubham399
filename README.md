@@ -36,11 +36,11 @@ R            25 mins         █▒░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Bucket](https://www.shubhkumar.in/htb/bucket/)
 - [HackTheBox - Blunder](https://www.shubhkumar.in/htb/blunder/)
 - [Hackthebox - Jewel](https://www.shubhkumar.in/htb/jewel/)
 - [HackTheBox - Cache](https://www.shubhkumar.in/htb/cache/)
 - [Hackthebox - Blackfield](https://www.shubhkumar.in/htb/blackfield/)
-- [Hackthebox - Doctor](https://www.shubhkumar.in/htb/doctor/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

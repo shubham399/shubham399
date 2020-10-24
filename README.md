@@ -36,11 +36,11 @@ Bash         45 mins         ██▒░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox - Dyplesher](https://www.shubhkumar.in/htb/dyplesher/)
 - [Hackthebox - Bucket](https://www.shubhkumar.in/htb/bucket/)
 - [HackTheBox - Blunder](https://www.shubhkumar.in/htb/blunder/)
 - [Hackthebox - Jewel](https://www.shubhkumar.in/htb/jewel/)
 - [HackTheBox - Cache](https://www.shubhkumar.in/htb/cache/)
-- [Hackthebox - Blackfield](https://www.shubhkumar.in/htb/blackfield/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

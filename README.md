@@ -36,11 +36,11 @@ Other        2 mins          ▒░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Time](https://www.shubhkumar.in/htb/time/)
 - [HackTheBox - Dyplesher](https://www.shubhkumar.in/htb/dyplesher/)
 - [Hackthebox - Bucket](https://www.shubhkumar.in/htb/bucket/)
 - [HackTheBox - Blunder](https://www.shubhkumar.in/htb/blunder/)
 - [Hackthebox - Jewel](https://www.shubhkumar.in/htb/jewel/)
-- [HackTheBox - Cache](https://www.shubhkumar.in/htb/cache/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

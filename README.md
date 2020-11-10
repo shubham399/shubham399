@@ -36,11 +36,11 @@ JSON         20 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Academy](https://www.shubhkumar.in/htb/academy/)
 - [Hackthebox - Tabby](https://www.shubhkumar.in/htb/tabby/)
 - [Hackthebox - Fuse](https://www.shubhkumar.in/htb/fuse/)
 - [Hackthebox - Time](https://www.shubhkumar.in/htb/time/)
 - [HackTheBox - Dyplesher](https://www.shubhkumar.in/htb/dyplesher/)
-- [Hackthebox - Bucket](https://www.shubhkumar.in/htb/bucket/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

@@ -36,11 +36,11 @@ JavaScript   36 mins         ██░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Laboratory](https://www.shubhkumar.in/htb/laboratory/)
 - [Hackthebox - Academy](https://www.shubhkumar.in/htb/academy/)
 - [Hackthebox - Tabby](https://www.shubhkumar.in/htb/tabby/)
 - [Hackthebox - Fuse](https://www.shubhkumar.in/htb/fuse/)
 - [Hackthebox - Time](https://www.shubhkumar.in/htb/time/)
-- [HackTheBox - Dyplesher](https://www.shubhkumar.in/htb/dyplesher/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

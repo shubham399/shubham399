@@ -36,11 +36,11 @@ YAML         1 hr 1 min      ██▒░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - SneakyMailer](https://www.shubhkumar.in/htb/sneakymailer/)
 - [Hackthebox - Buff](https://www.shubhkumar.in/htb/buff/)
 - [Hackthebox - Laboratory](https://www.shubhkumar.in/htb/laboratory/)
 - [Hackthebox - Academy](https://www.shubhkumar.in/htb/academy/)
 - [Hackthebox - Tabby](https://www.shubhkumar.in/htb/tabby/)
-- [Hackthebox - Fuse](https://www.shubhkumar.in/htb/fuse/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

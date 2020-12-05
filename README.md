@@ -36,11 +36,11 @@ Docker       10 mins         ▒░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Unbalanced](https://www.shubhkumar.in/htb/unbalanced/)
 - [Hackthebox - Luanne](https://www.shubhkumar.in/htb/luanne/)
 - [Hackthebox - SneakyMailer](https://www.shubhkumar.in/htb/sneakymailer/)
 - [Hackthebox - Buff](https://www.shubhkumar.in/htb/buff/)
 - [Hackthebox - Laboratory](https://www.shubhkumar.in/htb/laboratory/)
-- [Hackthebox - Academy](https://www.shubhkumar.in/htb/academy/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

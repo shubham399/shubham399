@@ -39,8 +39,8 @@ JavaScript   47 mins         █▒░░░░░░░░░░░░░░░
 - [Hackthebox - Ready](https://www.shubhkumar.in/htb/ready/)
 - [Hackthebox - OpenKeys](https://www.shubhkumar.in/htb/openkeys/)
 - [Hackthebox - Unbalanced](https://www.shubhkumar.in/htb/unbalanced/)
+- [Hackthebox - Luanne](https://www.shubhkumar.in/htb/luanne/)
 - [Hackthebox - SneakyMailer](https://www.shubhkumar.in/htb/sneakymailer/)
-- [Hackthebox - Buff](https://www.shubhkumar.in/htb/buff/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

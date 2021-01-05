@@ -36,11 +36,11 @@ EJS          56 mins         ███▒░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Reverse tabnabbing](https://www.shubhkumar.in/bug/tabnabbing/)
-- [trigger](https://www.shubhkumar.in/trigger/)
-- [poc](https://www.shubhkumar.in/poc/)
 - [Test Driven Development (URL Shortner App)](https://www.shubhkumar.in/node/tdd/)
 - [Hackthebox - Ready](https://www.shubhkumar.in/htb/ready/)
+- [Hackthebox - OpenKeys](https://www.shubhkumar.in/htb/openkeys/)
+- [Hackthebox - Unbalanced](https://www.shubhkumar.in/htb/unbalanced/)
+- [Hackthebox - Luanne](https://www.shubhkumar.in/htb/luanne/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

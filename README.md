@@ -36,11 +36,11 @@ Markdown     43 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Hackthebox - Delivery](https://www.shubhkumar.in/htb/machines/active/delivery/)
-- [Hackthebox - Omni](https://www.shubhkumar.in/htb/machines/retired/omni/)
-- [Test Driven Development (URL Shortner App)](https://www.shubhkumar.in/node/tdd/)
-- [Hackthebox - Ready](https://www.shubhkumar.in/htb/machines/active/ready/)
-- [Hackthebox - OpenKeys](https://www.shubhkumar.in/htb/machines/retired/openkeys/)
+- [Hackthebox - Delivery](http://shubhkumar.in/htb/machines/active/delivery/)
+- [Hackthebox - Omni](http://shubhkumar.in/htb/machines/retired/omni/)
+- [Test Driven Development (URL Shortner App)](http://shubhkumar.in/node/tdd/)
+- [Hackthebox - Ready](http://shubhkumar.in/htb/machines/active/ready/)
+- [Hackthebox - OpenKeys](http://shubhkumar.in/htb/machines/retired/openkeys/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

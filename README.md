@@ -36,11 +36,11 @@ SQL          22 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Hackthebox - Compromised](https://shubhkumar.in/htb/machines/retired/compromised/)
-- [Hackthebox - Delivery](https://shubhkumar.in/htb/machines/active/delivery/)
-- [Hackthebox - Omni](https://shubhkumar.in/htb/machines/retired/omni/)
-- [Test Driven Development (URL Shortner App)](https://shubhkumar.in/node/tdd/)
-- [Hackthebox - Ready](https://shubhkumar.in/htb/machines/active/ready/)
+- [Hackthebox - Compromised](https://f3v3r.in/htb/machines/retired/compromised/)
+- [Hackthebox - Delivery](https://f3v3r.in/htb/machines/active/delivery/)
+- [Hackthebox - Omni](https://f3v3r.in/htb/machines/retired/omni/)
+- [Test Driven Development (URL Shortner App)](https://f3v3r.in/node/tdd/)
+- [Hackthebox - Ready](https://f3v3r.in/htb/machines/active/ready/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

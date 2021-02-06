@@ -32,11 +32,11 @@ YAML       11 mins         █████████████████�
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Doctor](https://f3v3r.in/htb/machines/retired/doctor/)
 - [Hackthebox - Worker](https://f3v3r.in/htb/machines/retired/worker/)
 - [Hackthebox - Compromised](https://f3v3r.in/htb/machines/retired/compromised/)
 - [Hackthebox - Delivery](https://f3v3r.in/htb/machines/active/delivery/)
 - [Hackthebox - Omni](https://f3v3r.in/htb/machines/retired/omni/)
-- [Test Driven Development (URL Shortner App)](https://f3v3r.in/node/tdd/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

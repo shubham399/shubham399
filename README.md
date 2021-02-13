@@ -32,11 +32,11 @@ No Activity tracked this Week
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Jewel](https://f3v3r.in/htb/machines/retired/jewel/)
 - [Hackthebox - Doctor](https://f3v3r.in/htb/machines/retired/doctor/)
 - [Hackthebox - Worker](https://f3v3r.in/htb/machines/retired/worker/)
 - [Hackthebox - Compromised](https://f3v3r.in/htb/machines/retired/compromised/)
 - [Hackthebox - Delivery](https://f3v3r.in/htb/machines/active/delivery/)
-- [Hackthebox - Omni](https://f3v3r.in/htb/machines/retired/omni/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

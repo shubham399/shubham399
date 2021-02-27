@@ -36,11 +36,11 @@ Docker       33 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Academy](https://f3v3r.in/htb/machines/retired/academy/)
 - [Hackthebox - Jewel](https://f3v3r.in/htb/machines/retired/jewel/)
 - [Hackthebox - Doctor](https://f3v3r.in/htb/machines/retired/doctor/)
 - [Hackthebox - Worker](https://f3v3r.in/htb/machines/retired/worker/)
 - [Hackthebox - Compromised](https://f3v3r.in/htb/machines/retired/compromised/)
-- [Hackthebox - Delivery](https://f3v3r.in/htb/machines/active/delivery/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

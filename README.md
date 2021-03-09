@@ -36,11 +36,11 @@ SQL          34 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - the NoteBook](https://f3v3r.in/htb/machines/active/thenotebook/)
 - [Hackthebox - Passage](https://f3v3r.in/htb/machines/retired/passage/)
 - [Hackthebox - Spectra](https://f3v3r.in/htb/machines/active/spectra/)
 - [Hackthebox - Academy](https://f3v3r.in/htb/machines/retired/academy/)
 - [Hackthebox - Jewel](https://f3v3r.in/htb/machines/retired/jewel/)
-- [Hackthebox - Doctor](https://f3v3r.in/htb/machines/retired/doctor/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

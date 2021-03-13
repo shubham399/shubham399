@@ -36,11 +36,11 @@ JSON         18 mins         ▓░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Hackthebox - the NoteBook](https://f3v3r.in/htb/machines/active/thenotebook/)
+- [Hackthebox - Reel2](https://f3v3r.in/htb/machines/retired/reel2/)
+- [Hackthebox - TheNoteBook](https://f3v3r.in/htb/machines/active/thenotebook/)
 - [Hackthebox - Passage](https://f3v3r.in/htb/machines/retired/passage/)
 - [Hackthebox - Spectra](https://f3v3r.in/htb/machines/active/spectra/)
 - [Hackthebox - Academy](https://f3v3r.in/htb/machines/retired/academy/)
-- [Hackthebox - Jewel](https://f3v3r.in/htb/machines/retired/jewel/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

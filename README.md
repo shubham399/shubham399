@@ -36,11 +36,11 @@ JavaScript   28 mins         █▓░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Schooled](https://f3v3r.in/htb/machines/active/schooled/)
 - [Hackthebox - Time](https://f3v3r.in/htb/machines/retired/time/)
 - [Hackthebox - Luanne](https://f3v3r.in/htb/machines/retired/luanne/)
 - [Hackthebox - Reel2](https://f3v3r.in/htb/machines/retired/reel2/)
 - [Hackthebox - TheNoteBook](https://f3v3r.in/htb/machines/active/thenotebook/)
-- [Hackthebox - Passage](https://f3v3r.in/htb/machines/retired/passage/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

@@ -36,11 +36,11 @@ Text         20 mins         ▓░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Bucket](https://f3v3r.in/htb/machines/retired/bucket/)
 - [Hackthebox - Laboratory](https://f3v3r.in/htb/machines/retired/laboratory/)
 - [Hackthebox - Schooled](https://f3v3r.in/htb/machines/active/schooled/)
 - [Hackthebox - Time](https://f3v3r.in/htb/machines/retired/time/)
 - [Hackthebox - Luanne](https://f3v3r.in/htb/machines/retired/luanne/)
-- [Hackthebox - Reel2](https://f3v3r.in/htb/machines/retired/reel2/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

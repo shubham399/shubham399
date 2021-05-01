@@ -36,11 +36,11 @@ YAML         32 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Monitors](https://f3v3r.in/htb/machines/active/monitors/)
 - [Hackthebox - Bucket](https://f3v3r.in/htb/machines/retired/bucket/)
 - [Hackthebox - Laboratory](https://f3v3r.in/htb/machines/retired/laboratory/)
 - [Hackthebox - Schooled](https://f3v3r.in/htb/machines/active/schooled/)
 - [Hackthebox - Time](https://f3v3r.in/htb/machines/retired/time/)
-- [Hackthebox - Luanne](https://f3v3r.in/htb/machines/retired/luanne/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

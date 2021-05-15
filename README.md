@@ -36,11 +36,11 @@ JSON         41 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Ready](https://f3v3r.in/htb/machines/retired/ready/)
 - [Hackthebox - Love](https://f3v3r.in/htb/machines/active/love/)
 - [Hackthebox - Monitors](https://f3v3r.in/htb/machines/active/monitors/)
 - [Hackthebox - Bucket](https://f3v3r.in/htb/machines/retired/bucket/)
 - [Hackthebox - Laboratory](https://f3v3r.in/htb/machines/retired/laboratory/)
-- [Hackthebox - Schooled](https://f3v3r.in/htb/machines/active/schooled/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

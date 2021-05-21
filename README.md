@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I ❤️ 🐶 and 🎮
 
 
+<img src="https://komarev.com/ghpvc/?username=shubham399" alt="shubham399" />
 ---
 ### Connect with me:
 

@@ -37,11 +37,11 @@ Python       7 mins          ▓░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Tenet](https://f3v3r.in/htb/machines/retired/tenet/)
 - [Hackthebox - ScriptKiddie](https://f3v3r.in/htb/machines/retired/scriptkiddie/)
 - [Hackthebox - Delivery](https://f3v3r.in/htb/machines/retired/delivery/)
 - [Hackthebox - Ready](https://f3v3r.in/htb/machines/retired/ready/)
 - [Hackthebox - Love](https://f3v3r.in/htb/machines/active/love/)
-- [Hackthebox - Monitors](https://f3v3r.in/htb/machines/active/monitors/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

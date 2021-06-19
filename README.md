@@ -26,7 +26,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-YAML   11 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

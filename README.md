@@ -33,11 +33,11 @@ No Activity tracked this Week
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Atom](https://f3v3r.in/htb/machines/retired/atom/)
 - [Instahyre - Tabnabbing](https://f3v3r.in/report/instahyre/)
 - [Hackthebox - Tenet](https://f3v3r.in/htb/machines/retired/tenet/)
 - [Hackthebox - ScriptKiddie](https://f3v3r.in/htb/machines/retired/scriptkiddie/)
 - [Hackthebox - Delivery](https://f3v3r.in/htb/machines/retired/delivery/)
-- [Hackthebox - Ready](https://f3v3r.in/htb/machines/retired/ready/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

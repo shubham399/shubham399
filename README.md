@@ -37,11 +37,11 @@ Docker       21 mins         █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Knife](https://f3v3r.in/htb/machines/retired/knife/)
 - [Hackthebox - Love](https://f3v3r.in/htb/machines/retired/love/)
 - [Hackthebox - TheNoteBook](https://f3v3r.in/htb/machines/retired/thenotebook/)
 - [Hackthebox - Armageddon](https://f3v3r.in/htb/machines/retired/armageddon/)
 - [Hackthebox - Atom](https://f3v3r.in/htb/machines/retired/atom/)
-- [Instahyre - Tabnabbing](https://f3v3r.in/report/instahyre/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

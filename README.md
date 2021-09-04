@@ -37,11 +37,11 @@ JavaScript   8 mins          █░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Unobtainium](https://f3v3r.in/htb/machines/retired/unobtainium/)
 - [Hackthebox - Knife](https://f3v3r.in/htb/machines/retired/knife/)
 - [Hackthebox - Love](https://f3v3r.in/htb/machines/retired/love/)
 - [Hackthebox - TheNoteBook](https://f3v3r.in/htb/machines/retired/thenotebook/)
 - [Hackthebox - Armageddon](https://f3v3r.in/htb/machines/retired/armageddon/)
-- [Hackthebox - Atom](https://f3v3r.in/htb/machines/retired/atom/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

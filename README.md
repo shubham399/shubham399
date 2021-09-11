@@ -37,11 +37,11 @@ Text         6 mins          ▒░░░░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Schooled](https://f3v3r.in/htb/machines/retired/schooled/)
 - [Hackthebox - Unobtainium](https://f3v3r.in/htb/machines/retired/unobtainium/)
 - [Hackthebox - Knife](https://f3v3r.in/htb/machines/retired/knife/)
 - [Hackthebox - Love](https://f3v3r.in/htb/machines/retired/love/)
 - [Hackthebox - TheNoteBook](https://f3v3r.in/htb/machines/retired/thenotebook/)
-- [Hackthebox - Armageddon](https://f3v3r.in/htb/machines/retired/armageddon/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

@@ -34,11 +34,11 @@ No Activity tracked this Week
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox - Horizontall](https://f3v3r.in/htb/machines/retired/horizontall/)
 - [Hackthebox - Cap](https://f3v3r.in/htb/machines/retired/cap/)
 - [Hackthebox - Schooled](https://f3v3r.in/htb/machines/retired/schooled/)
 - [Hackthebox - Unobtainium](https://f3v3r.in/htb/machines/retired/unobtainium/)
 - [Hackthebox - Knife](https://f3v3r.in/htb/machines/retired/knife/)
-- [Hackthebox - Love](https://f3v3r.in/htb/machines/retired/love/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

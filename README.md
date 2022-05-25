@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on something
 - 🌱 I’m currently learning react and react-native. 
 - 👯 I’m looking to collaborate on JavaScript
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I ❤️ 🐶 and 🎮
 
 

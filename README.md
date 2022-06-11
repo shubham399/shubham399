@@ -42,10 +42,10 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [HackTheBox - Horizontall](https://f3v3r.in/htb/machines/retired/horizontall/)
+- [HackTheBox - Meta](https://f3v3r.in/htb/machines/retired/meta/)
 - [Hackthebox - Cap](https://f3v3r.in/htb/machines/retired/cap/)
 - [Hackthebox - Schooled](https://f3v3r.in/htb/machines/retired/schooled/)
 - [Hackthebox - Unobtainium](https://f3v3r.in/htb/machines/retired/unobtainium/)
-- [Hackthebox - Knife](https://f3v3r.in/htb/machines/retired/knife/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

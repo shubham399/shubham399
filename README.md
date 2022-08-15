@@ -28,10 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs          ██████████████▒░░░░░░░░░░   56.69 %
-JavaScript   3 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-Docker       1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Other        1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+TypeScript   9 hrs 22 mins   ██████████████░░░░░░░░░░░   55.35 %
+JavaScript   3 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+Docker       1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Other        1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
 ```
 
 <!--END_SECTION:waka-->

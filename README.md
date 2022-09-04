@@ -39,11 +39,11 @@ Other        39 mins         ███▒░░░░░░░░░░░░░
 ---
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Hackthebox - Late](https://f3v3r.in/htb/machines/retired/late/)
 - [HackTheBox - Horizontall](https://f3v3r.in/htb/machines/retired/horizontall/)
+- [HackTheBox - Noter](https://f3v3r.in/htb/machines/retired/Noter/)
+- [Hackthebox - Late](https://f3v3r.in/htb/machines/retired/late/)
 - [HackTheBox - Meta](https://f3v3r.in/htb/machines/retired/meta/)
 - [Hackthebox - Cap](https://f3v3r.in/htb/machines/retired/cap/)
-- [Hackthebox - Schooled](https://f3v3r.in/htb/machines/retired/schooled/)
 <!-- BLOG-POST-LIST:END -->
 ---
 

@@ -38,11 +38,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 ### Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [HackTheBox - Horizontall](https://f3v3r.in/htb/machines/retired/horizontall/)
+- [HackTheBox - Seventeen](https://f3v3r.in/htb/machines/retired/seventeen/)
 - [HackTheBox - Noter](https://f3v3r.in/htb/machines/retired/Noter/)
+- [HackTheBox - Horizontall](https://f3v3r.in/htb/machines/retired/horizontall/)
 - [Hackthebox - Late](https://f3v3r.in/htb/machines/retired/late/)
 - [HackTheBox - Meta](https://f3v3r.in/htb/machines/retired/meta/)
-- [Hackthebox - Cap](https://f3v3r.in/htb/machines/retired/cap/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Badges

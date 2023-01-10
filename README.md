@@ -63,7 +63,8 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 <!--START_SECTION:waka-->
 
 ```text
-Other                      1 hr 5 mins     ███████░░░░░░░░░░░░░░░░░░   27.65 %
+JavaScript                 1 hr 55 mins    ████████▓░░░░░░░░░░░░░░░░   34.24 %
+Other                      1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
 ```
 
 <!--END_SECTION:waka-->

@@ -38,11 +38,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 ### Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - MetaTwo](https://f3v3r.in/htb/machines/retired/metatwo/)
 - [Hackthebox - Investigation](https://f3v3r.in/htb/machines/retired/investigation/)
 - [Hackthebox - Mentor](https://f3v3r.in/htb/machines/retired/mentor/)
 - [Hackthebox - PhotoBomb](https://f3v3r.in/htb/machines/retired/photobomb/)
 - [Hackthebox - Ambassador](https://f3v3r.in/htb/machines/retired/ambassador/)
-- [Hackthebox - Updown](https://f3v3r.in/htb/machines/retired/updown/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Badges

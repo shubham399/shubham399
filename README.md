@@ -63,11 +63,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      2 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.47 %
-Bash                       2 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   30.50 %
-JavaScript                 2 hrs 28 mins   ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-JSON                       24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Nginx configuration file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Other        3 hrs 26 mins   █████████▓░░░░░░░░░░░░░░░   39.21 %
+JavaScript   2 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   32.09 %
+Bash         2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.51 %
+JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+TOML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->

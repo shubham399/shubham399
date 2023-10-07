@@ -72,6 +72,8 @@ INI          10 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+[![An image of @shubham399's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubham399)](https://holopin.io/@shubham399)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/f3v3r"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

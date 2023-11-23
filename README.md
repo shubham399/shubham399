@@ -63,10 +63,7 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   47 mins         █████████████░░░░░░░░░░░░   51.90 %
-Other        23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
-JSON         20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

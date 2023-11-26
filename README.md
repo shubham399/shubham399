@@ -38,11 +38,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 ### Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox - Pilgrimage](https://f3v3r.in/htb/machines/retired/pilgrimage/)
 - [HackTheBox - Sandworm](https://f3v3r.in/htb/machines/retired/sandworm/)
 - [HackTheBox - Topology](https://f3v3r.in/htb/machines/retired/topology/)
 - [Hackthebox - Jupiter](https://f3v3r.in/htb/machines/retired/jupiter/)
 - [Hackthebox - PC](https://f3v3r.in/htb/machines/retired/pc/)
-- [Hackthebox - Format](https://f3v3r.in/htb/machines/retired/format/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Badges

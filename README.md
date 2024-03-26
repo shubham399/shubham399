@@ -61,11 +61,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.34 %
-TypeScript   1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Lua          44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-Other        42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-JSON         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+JavaScript   1 hr 53 mins    ████████▓░░░░░░░░░░░░░░░░   34.81 %
+TypeScript   1 hr 14 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+Lua          44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Other        40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+JSON         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
 ```
 
 <!--END_SECTION:waka-->

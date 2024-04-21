@@ -64,7 +64,7 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 TypeScript   5 hrs 45 mins   ███████████████▒░░░░░░░░░   61.34 %
 JSON         1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
 Other        45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-JavaScript   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+JavaScript   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
 Markdown     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 

@@ -73,7 +73,7 @@ JSON         13 mins         ▒░░░░░░░░░░░░░░░░
 [![An image of @shubham399's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubham399)](https://holopin.io/@shubham399)
 
 
-[![](https://visitcount.itsvg.in/api?id=shubham399&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shubham399&label=Profile%20Views&color=12&pretty=true)]()
 
 
 

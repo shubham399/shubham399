@@ -61,11 +61,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs           █████████████████▓░░░░░░░   70.72 %
-VB.NET       1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
-Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   3 hrs 52 mins   ████████████████████░░░░░   79.61 %
+JavaScript   33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Other        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->

@@ -68,7 +68,7 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 Other        1 hr 28 mins    ██████████████▒░░░░░░░░░░   56.82 %
 JavaScript   57 mins         █████████░░░░░░░░░░░░░░░░   36.65 %
 HTML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 

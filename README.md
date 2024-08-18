@@ -65,11 +65,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-Bash         2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   31.52 %
-TOML         1 hr 52 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
-Other        1 hr 46 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
-YAML         44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Lua          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Bash         2 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+TOML         1 hr 52 mins    ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Other        1 hr 46 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+YAML         44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+Python       34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
 ```
 
 <!--END_SECTION:waka-->

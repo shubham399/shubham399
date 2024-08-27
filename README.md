@@ -65,11 +65,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 5 mins    █████████████▒░░░░░░░░░░░   53.35 %
-JavaScript   1 hr 13 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-Python       41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-TypeScript   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-CSV          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Other        3 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   37.84 %
+JavaScript   3 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.87 %
+TypeScript   1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Python       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Go           39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
 ```
 
 <!--END_SECTION:waka-->

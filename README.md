@@ -69,8 +69,8 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-Other        27 hrs 46 mins  ███████████████████████▓░   95.27 %
-Bash         1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Other        26 hrs 54 mins  ███████████████████████▓░   95.13 %
+Bash         1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 Git          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Io           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %

@@ -69,11 +69,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-Other         24 hrs 56 mins  ██████████████████████░░░   88.66 %
-Bash          1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-JavaScript    54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-TypeScript    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-JSON          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other         26 hrs 54 mins  ██████████████████████▒░░   89.29 %
+Bash          1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+JavaScript    1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+JSON          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->

@@ -69,8 +69,8 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-Other          40 hrs 19 mins  ████████████████████████░   96.20 %
-TypeScript     48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Other          40 hrs 43 mins  ████████████████████████░   96.24 %
+TypeScript     48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 HTTP Request   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 Io             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Bash           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %

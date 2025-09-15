@@ -69,7 +69,7 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-Other        35 hrs 54 mins  ███████████████████████▓░   94.91 %
+Other        36 hrs 2 mins   ███████████████████████▓░   94.93 %
 Bash         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 YAML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 JSON         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %

@@ -7,7 +7,7 @@ A Developer and an Infosec Enthusiast
 I am Developer with almost 7 years of experience, Currently working with NodeJS technologies working at airfi.aero
 
 * 🌍  I'm based in Bangalore
-* ✉️  You can contact me at [cal.shubhkumar.in](https://cal.shubhkumar.in)
+* ✉️  You can contact me at [cal.shubhkumar.in](https://go.shubhkumar.in/cal)
 * 🚀  I'm currently working on [Projects](http://airfi.aero)
 * 🧠  I'm learning NestJS
 * 🤝  I'm open to collaborating on Intresting Project
@@ -78,10 +78,9 @@ Text       1 min           ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
   
-  [![An image of @shubham399's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubham399)](https://holopin.io/@shubham399)
+[![An image of @shubham399's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubham399)](https://holopin.io/@shubham399)
   
-  
-  [![](https://visitcount.itsvg.in/api?id=shubham399&label=Profile%20Views&color=12&pretty=true)]()
+[![](https://visitcount.itsvg.in/api?id=shubham399&label=Profile%20Views&color=12&pretty=true)]()
 
 
 ### Support Me

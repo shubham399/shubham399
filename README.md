@@ -22,9 +22,9 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 ### Contribution
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham399/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham399/github-stats/master/generated/overview.svg#gh-light-mode-only">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/shubham399/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 </picture>
 
 

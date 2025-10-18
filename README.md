@@ -80,8 +80,8 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-Bash      1 hrs 25 mins   ████████████████████▒░░░░   80.85 %
-Unknown   0 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+Bash      1 hrs 25 mins   ███████████████████████▒░   93.93 %
+Unknown   0 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
 ```
 
 <!--END_SECTION:waka-->

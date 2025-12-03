@@ -80,8 +80,7 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-JSX   0 hrs 36 mins   █████████████████▒░░░░░░░   69.38 %
-C     0 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.62 %
+JSX   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

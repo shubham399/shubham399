@@ -73,7 +73,7 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/shubham399/hexo-twitter-auto-publish" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham399&repo=hexo-twitter-auto-publish&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shubham399/urlshortner" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham399&repo=urlshortner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/shubham399/hexo-twitter-auto-publish" align="left"><img align="left" width="45%" src="https://github-readme-stats-ten-rho-44.vercel.app/api/pin/?username=shubham399&repo=hexo-twitter-auto-publish&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shubham399/urlshortner" align="right"><img align="right" width="45%" src="https://github-readme-stats-ten-rho-44.vercel.app/api/pin/?username=shubham399&repo=urlshortner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ---
   📊 **This week I spent my time on**

@@ -80,10 +80,8 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-Unknown                    0 hrs 28 mins   ███████████░░░░░░░░░░░░░░   43.67 %
-INI                        0 hrs 20 mins   ████████░░░░░░░░░░░░░░░░░   31.92 %
-Nginx configuration file   0 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-Bash                       0 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Unknown   0 hrs 39 mins   ██████████████░░░░░░░░░░░   55.54 %
+Bash      0 hrs 31 mins   ███████████░░░░░░░░░░░░░░   44.46 %
 ```
 
 <!--END_SECTION:waka-->

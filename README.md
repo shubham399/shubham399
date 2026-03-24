@@ -80,11 +80,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-JSX          1 hrs 16 mins         ███████████▒░░░░░░░░░░░░░   45.85 %
-Unknown      0 hrs 40 mins         ██████░░░░░░░░░░░░░░░░░░░   24.26 %
-Lua          0 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-Json         0 hrs 11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Bash         0 hrs 10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+JSX          1 hrs 22 mins         █████████▓░░░░░░░░░░░░░░░   38.58 %
+Unknown      0 hrs 40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+Dosini       0 hrs 19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+YAML         0 hrs 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Bash         0 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
 
 <!--END_SECTION:waka-->

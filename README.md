@@ -80,11 +80,11 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-TSX            1 hrs 52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-Bash           1 hrs 33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Unknown        1 hrs 31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Groovy         1 hrs 14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Lua            1 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+TSX            1 hrs 50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
+Bash           1 hrs 33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
+Unknown        1 hrs 20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Groovy         1 hrs 14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+Lua            1 hrs 4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
 ```
 
 <!--END_SECTION:waka-->

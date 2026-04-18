@@ -81,7 +81,7 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
 
 ```txt
 JSX          1 hrs 46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
-Unknown      1 hrs 44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+Unknown      1 hrs 44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
 SQL          0 hrs 52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
 Markdown     0 hrs 40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
 Lua          0 hrs 26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %

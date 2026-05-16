@@ -156,11 +156,7 @@ src="https://img.shields.io/twitter/follow/shubhkumar01?logo=twitter&style=for-t
   <!--START_SECTION:waka-->
 
 ```txt
-Groovy       0 hrs 31 mins         ███████████▒░░░░░░░░░░░░░   45.49 %
-Json         0 hrs 20 mins         ███████░░░░░░░░░░░░░░░░░░   28.54 %
-Confini      0 hrs 16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
-Dockerfile   0 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Javascript   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
